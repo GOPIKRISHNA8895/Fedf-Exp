@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Complete React Assignment",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Test API connection",
+      "completed": true
+    },
+    {
+      "id": "780c",
+      "title": "fp=ood",
+      "completed": false
+    }
+  ]
+}
